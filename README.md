@@ -29,9 +29,9 @@ There are 2 test clases on the project under /src/test/java/com/selenium/tests f
 AddToCartTest.java
 AddToCartSimplified.java
 ```
-The first one, AddToCartTest, is the class created during the innterview. This test had some issues finding and interacting with the WebElements but those have been fixed. In addition, this Test class uses a POM framework which was NOT asked to do during the interview causing a bit of delay on completing the requested challenge.
+The first one, AddToCartTest.java, is the class created during the innterview. This test had some issues finding and interacting with the WebElements but those have been fixed. In addition, this Test class uses a POM framework which was NOT asked to do during the interview causing a bit of delay on completing the requested challenge.
 
-The second test class is a more simplified and streamlined test class that wouldn't have required that much time to complete but would have provided the same result. This probably was the better approach to take during the interview to demo the requested challenge. having said that, the approach used during the interview is a much more refined, manageable, maintenable and easy to read and use than this second test class added to the project.
+The second test class, AddToCartSimplified.java, is a more simplified and streamlined test class that wouldn't have required that much time to complete but would have provided the same result. This probably was the better approach to take during the interview to demo the requested challenge. having said that, the approach used during the interview is a much more refined, manageable, maintenable and easy to read and use than this second test class added to the project.
 
 Currenntly both Test classes fullfil the goal of the challenge.
 
